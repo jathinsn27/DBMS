@@ -1,6 +1,5 @@
 create database banking_enterprise;
 show databases;
-drop database banking_enterprise;
 use banking_enterprise;
 create table branch(
 branch_name varchar(30) not null,
